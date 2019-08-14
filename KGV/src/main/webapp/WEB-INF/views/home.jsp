@@ -11,7 +11,7 @@
 <h1>
 	Hello world!  
 </h1>
-	한글 바보 ㅁㄴㅇㄹ
+	얏호
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
